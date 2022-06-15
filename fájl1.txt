@@ -5,3 +5,4 @@ newline123
 clonetest
 test2
 teest3sdasd
+test

@@ -6,7 +6,7 @@ clonetestrest
 test2xycvyxcvghjghj
 teest3sdasdsdfsdfdgdfdfgdfasdasdfghfghg
 committed234567sdfsdfsdfsdfsdfsd
-editedsdfsdfdfgfghfghdfgsdfsdfs
+editedsdfsdfdfgfghfghdfgsdfsdfssadfsadf
 2dfgdfgerwerdsfgdfgdfasdsasdfsddfgfdg
 editedyxcyxcyxsdfsddfgdg
 <<<<<<< HEADasdfasdfasdsdfdfgsdfsdfghfgh
